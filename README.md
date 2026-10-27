@@ -6,14 +6,14 @@ El proyecto está enfocado en el manejo de estado con React Hooks, la composici�
 
 ## 🚀 Demo
 
-🔗 **Live Demo:** _Agrega aquí el enlace cuando publiques el proyecto._
+🔗 **Live Demo:** https://guitarla-aldosz94.netlify.app/
 
 ## 🛠️ Tecnologías utilizadas
 
-- **React 19**
-- **JavaScript (ES Modules) y JSX**
+- **React**
+- **JavaScript**
 - **Vite**
-- **CSS** con estilos y clases utilitarias inspiradas en Bootstrap
+- **CSS** 
 - **HTML**
 
 ## ✨ Características
